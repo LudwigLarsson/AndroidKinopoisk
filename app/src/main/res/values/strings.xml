@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AndroidKinopoisk</string>
+    <string name="movie_poster">Постер к фильму</string>
+    <string name="title">Название:</string>
+    <string name="original_title">original_title</string>
+    <string name="label_original_title">Оригинальное название:</string>
+    <string name="rating">0.0</string>
+    <string name="rating_label">Рейтинг:</string>
+    <string name="add_to_fav_desc">Добавить в избранное</string>
+    <string name="label_release_date">Год выхода:</string>
+    <string name="default_release_date">01.01.1970</string>
+    <string name="label_description">Описание:</string>
+    <string name="default_description">Нет описания</string>
+    <string name="play_trailer">Воспроизвести</string>
+    <string name="default_trailer">Трейлер</string>
+    <string name="default_review">review</string>
+    <string name="default_date">01.01.1970</string>
+    <string name="default_review_title">default_review_title</string>
+    <string name="default_author">author</string>
+    <string name="default_count">0</string>
+    <string name="like">👍🏻</string>
+    <string name="dislike">👎🏻</string>
+    <string name="open_reviews">Отзывы</string>
+    <string name="lable_favourite">Избранное</string>
+    <string name="menu_item_favs">Избранное</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
